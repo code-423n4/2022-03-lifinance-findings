@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "dirk_y",
+  "address": "0x00db4d01c8953a707239DC168E466F64dD97Fe9c",
+  "risk": "2",
+  "title": "User can't complete a cross chain transaction with NXTP ",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/13"
+}
