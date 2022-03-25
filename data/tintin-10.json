@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "tintin",
+  "address": "0xaa371e26742290063d92f0bd7197ac2d8d3ac4f1",
+  "risk": "3",
+  "title": "Users can swap for no cost when the Facet contract calling LibSwap has a balance of ERC20 or native tokens",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/10"
+}
