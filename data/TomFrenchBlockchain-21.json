@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "TomFrenchBlockchain",
+  "address": "0x60959Ed8307EE2b0d04306f6b319AEeE8864f1Ee",
+  "risk": "2",
+  "title": "Swapper cannot handle inputs with more than one swap if msg.value > 0",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/21"
+}
