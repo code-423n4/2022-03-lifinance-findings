@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "dimitri",
+  "address": "0x84C7518D2a1802ce1dC2D489717892a0376f3365",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/22"
+}
