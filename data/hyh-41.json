@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "Native token balance can be stolen as LibSwap's swap is reusing msg.value",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/41"
+}
