@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "0xNazgul",
+  "address": "0x714Af4c78135Ec866a3cd34755BDB59cdb9b7246",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 99,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/99"
+}
