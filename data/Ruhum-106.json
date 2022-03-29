@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "3",
+  "title": "Swaps don't properly support fee-on-transfer tokens",
+  "issueId": 106,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/106"
+}
