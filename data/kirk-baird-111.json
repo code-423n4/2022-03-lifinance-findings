@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "2",
+  "title": "Users May Lose Funds in `NXTPFacet.swapAndCompleteBridgeTokensViaNXTP()` if the Swap Does Not Increase The Balance",
+  "issueId": 111,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/111"
+}
