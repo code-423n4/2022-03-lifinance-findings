@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "ACai",
+  "address": " 0xa8881ede6ae1404e62f20bb4aa89e5b1a7e1efd8",
+  "risk": "3",
+  "title": "There is a potential reentrancy attack in the AnyswapFacet contract.",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/94"
+}
