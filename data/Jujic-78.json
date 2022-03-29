@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "2",
+  "title": "Transfer is bad practice",
+  "issueId": 78,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/78"
+}
