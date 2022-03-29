@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "3",
+  "title": "batchRemoveDex() will only remove a single dex",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/73"
+}
