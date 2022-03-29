@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "Picodes",
+  "address": "0x9843C8a8263308A309BfC3C2d1c308126D8E754D",
+  "risk": "3",
+  "title": "Swap including native asset don't behaved as specified",
+  "issueId": 112,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/112"
+}
