@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "0xDjango",
+  "address": "0x5938Dc681121c306192F3187a3EEe47B9C697BA0",
+  "risk": "3",
+  "title": "Reliance on lifiData.receivingAssetId can cause loss of funds",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/75"
+}
