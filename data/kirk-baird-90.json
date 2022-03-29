@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "kirk-baird",
+  "address": "0xC07AB0222713175389FD105Bb85FA82d8510d13E",
+  "risk": "3",
+  "title": "`LibSwap.swap()` will transfer `fromAmount` if there is insufficient balance in the contract allowing an attacker to claim unused funds or forcing a user to transfer excess funds.",
+  "issueId": 90,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/90"
+}
