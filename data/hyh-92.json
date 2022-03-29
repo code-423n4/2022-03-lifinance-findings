@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "3",
+  "title": "Any ERC20 token from the Diamond balance can be stolen",
+  "issueId": 92,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/92"
+}
