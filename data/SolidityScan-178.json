@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "SolidityScan",
+  "address": "0xB5E576E33a7A06cB96F08B1ef2e712b9Cdb22D58",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 178,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/178"
+}
