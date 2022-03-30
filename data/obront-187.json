@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "obront",
+  "address": "0xf346100e892553DcEb41A927Fb668DA7B0b7C964",
+  "risk": "2",
+  "title": "If contract holds balance of any ERC20 token, any user can take it",
+  "issueId": 187,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/187"
+}
