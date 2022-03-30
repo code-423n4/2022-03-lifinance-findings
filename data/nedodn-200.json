@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "nedodn",
+  "address": "0xd0C81E82AbDdF29C6505d660f5bEBe60CDFf03c5",
+  "risk": "2",
+  "title": "Owner can whitelist addresses for swaps and steal approved assets from users",
+  "issueId": 200,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/200"
+}
