@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "HOPFacet does not explicitly check against non-existence hopBridges",
+  "issueId": 135,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/135"
+}
