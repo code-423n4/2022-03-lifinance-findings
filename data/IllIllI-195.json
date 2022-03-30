@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "IllIllI",
+  "address": "0xCC6B0a35481EA40b60780B7c0294c6c29061038f",
+  "risk": "3",
+  "title": "NXTP bridge operations can be completed with the wrong `assetId`, `receiver`, and or `amount`",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/195"
+}
