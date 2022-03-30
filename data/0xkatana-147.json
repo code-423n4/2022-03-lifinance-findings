@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "0xkatana",
+  "address": "0x12B340447509D55E7883a2EcB8C3F59E46F253f7",
+  "risk": "Q",
+  "title": "QA Report",
+  "issueId": 147,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/147"
+}
