@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "SolidityScan",
+  "address": "0xB5E576E33a7A06cB96F08B1ef2e712b9Cdb22D58",
+  "risk": "3",
+  "title": "Lack of validation in  Deadline and destinationDeadline in swapData calldata",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/141"
+}
