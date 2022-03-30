@@ -1,0 +1,9 @@
+{
+  "contest": 103,
+  "handle": "peritoflores",
+  "address": "0xca14410735e29650dc240245d96bb376c51477c1",
+  "risk": "2",
+  "title": "ALMOST DEPRECATED TRANSFER() IS USED TO WITHDRAW ETHER",
+  "issueId": 213,
+  "issueUrl": "https://github.com/code-423n4/2022-03-lifinance-findings/issues/213"
+}
