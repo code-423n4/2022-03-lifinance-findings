@@ -1,3 +1,11 @@
+---
+sponsor: "LI.FI"
+slug: "2022-03-lifinance"
+date: "2022-05-05"
+title: "LI.FI contest"
+findings: "https://github.com/code-423n4/2022-03-lifinance-findings/issues"
+contest: 103
+---
 
 # Overview
 
